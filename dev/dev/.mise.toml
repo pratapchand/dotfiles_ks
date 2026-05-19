@@ -11,7 +11,7 @@ npm = "latest"
 "npm:@google/gemini-cli" = "latest"
 "npm:opencode-ai" = "latest"
 "npm:playwright" = "latest"
-"npm:@mariozechner/pi-coding-agent" = "latest"
+"npm:@earendil-works/pi-coding-agent" = "latest"
 
 [env]
 _.file = { path = ".keys.json", redact = true }
